@@ -1,3 +1,9 @@
+### Groups
+
+Group One: Jasmaine, David, Jarvis, Akintunde
+Group Two: George, Joel, Jared
+Group Three: Mikael, Nathan, PJ
+
 ### Dates/Deadlines
 
 Project Idea: November 14, 2017
@@ -33,3 +39,13 @@ Due Date: TBA
 - Directions for future development
 - Treat the presentation seriously! 
 - Talking intelligently about tech > doing tech sometimes. 
+
+### Teamwork
+
+- Communicate effectively
+- Work well together
+- Compromise
+- Put in a lot of effort
+- Everybody should be working hard on this
+- You can divide the team based on strengths: split server side and client side
+
