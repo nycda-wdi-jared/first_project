@@ -1,3 +1,9 @@
+### Dates/Deadlines
+
+Project Idea: November 14, 2017
+Midway Checkin: TBA
+Due Date: TBA
+
 ### Coding Requirements
 
 - Must use a Node and Express Web Server
