@@ -6,9 +6,9 @@
 
 ### Dates/Deadlines
 
-- Project Idea: November 14, 2017
+- Project Idea: November 30, 2017
 - Midway Checkin: TBA
-- Due Date: TBA
+- Due Date: December 10, 2017
 
 ### Coding Requirements
 
