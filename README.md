@@ -1,14 +1,14 @@
 ### Groups
 
-- Group One: Jasmaine, David, Jarvis, Akintunde
+- Group One: Jasmaine, Jarvis, Akintunde
 - Group Two: George, Joel, Jared
 - Group Three: Mikael, Nathan, PJ
 
 ### Dates/Deadlines
 
-- Project Idea: November 30, 2017
+- Project Idea: November 3rd, 2017
 - Midway Checkin: TBA
-- Due Date: December 10, 2017
+- Due Date: December 17, 2017
 
 ### Coding Requirements
 
