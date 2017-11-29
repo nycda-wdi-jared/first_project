@@ -25,6 +25,7 @@
 - Utilize EJS for Server-Side Templating
 - Use an existing public dataset to power the database
 - Create a migration strategy for sharing data across teammembers.
+- A polised README.md file
 
 ### Presentation Requirements
 
