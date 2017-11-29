@@ -6,7 +6,7 @@
 
 ### Dates/Deadlines
 
-- Project Idea: November 3rd, 2017
+- Project Idea: December 3rd, 2017
 - Midway Checkin: TBA
 - Due Date: December 17, 2017
 
